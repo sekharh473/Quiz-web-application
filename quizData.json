@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["New York", "London", "Paris", "Dublin"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent Van Gogh",
+      "Pablo Picasso",
+      "Leonardo Da Vinci",
+      "Claude Monet"
+    ],
+    "answer": "Leonardo Da Vinci"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": ["1912", "1922", "1932", "1942"],
+    "answer": "1912"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "George Orwell"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Brain", "Heart", "Skin", "Lungs"],
+    "answer": "Skin"
+  }
+]
